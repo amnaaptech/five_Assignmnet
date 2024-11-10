@@ -8,9 +8,9 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      fontFamily: {
+        rye: ['Rye', 'sans-serif'],
+        libre: ['Libre Bodoni', 'serif'],
       },
     },
   },
